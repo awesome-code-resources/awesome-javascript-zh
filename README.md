@@ -82,7 +82,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [贡献](#贡献)
 ## 包管理器
 
-* 托管JavaScript库并提供获取和打包它们的工具。* 
+*托管JavaScript库并提供获取和打包它们的工具。* 
 
 * [npm](https://www.npmjs.com/)npm是JavaScript的包管理器。
 * [Bower](https://github.com/bower/bower)-用于web的包管理器。
@@ -100,7 +100,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Bit](https://github.com/teambit/bit)-跨应用程序创建，查找和重用组件 (React，Angular，Node等)。
 ## 装载机
 
-* JavaScript的模块或加载系统。* 
+*JavaScript的模块或加载系统。* 
 
 * [RequireJS](https://github.com/requirejs/requirejs)-用于JavaScript的文件和模块加载器。
 * [browserify](https://github.com/substack/node-browserify)-浏览器端require() 的node.js方式。
@@ -114,7 +114,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [modulejs](https://github.com/lrsjng/modulejs)-轻量级JavaScript模块系统。
 ## 变换器
 
-* 将现代JavaScript语法转换为旧JavaScript语法的软件。* 
+*将现代JavaScript语法转换为旧JavaScript语法的软件。* 
 
 * [SWC](https://swc.rs/)可扩展的基于Rust的编译平台。
 ## 捆扎机
@@ -255,7 +255,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Factor](https://github.com/fiction-com/factor)-The Javascript CMS
 ## 模板引擎
 
-* 模板引擎允许您执行字符串插值。* 
+*模板引擎允许您执行字符串插值。* 
 
 * [mustache.js](https://github.com/janl/mustache.js)-在JavaScript中使用 {{mustaches}} 进行最小模板。
 * [handlebars.js](https://github.com/handlebars-lang/handlebars.js)-Mustache模板语言的扩展。
@@ -290,7 +290,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/)-在JavaScript中分解 “this” 关键字
 ## 数据可视化
 
-* 用于web的数据可视化工具。* 
+*用于web的数据可视化工具。* 
 
 * [d3](https://github.com/d3/d3)-用于HTML和SVG的JavaScript可视化库。
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics)-针对简洁，有原则的数据图形和布局进行了优化的库。
@@ -392,7 +392,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs)是一个可视化工具，用于通过在源代码中放入面包屑来学习和记录代码库。
 ## 文件
 
-* 用于处理文件的库。* 
+*用于处理文件的库。* 
 
 * [Papa Parse](https://github.com/mholt/PapaParse)-一个强大的CSV库，支持解析CSV文件/字符串，并导出到CSV。
 * [jBinary](https://github.com/jDataView/jBinary)-用于二进制文件的高级I/O (加载，解析，操作，序列化，保存)，具有用于描述文件类型和数据结构的声明性语法。
@@ -401,7 +401,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [PDF.js](https://github.com/mozilla/pdf.js)-JavaScript中的PDF阅读器。
 ## 函数式编程
 
-* 扩展JavaScript功能的函数式编程库。* 
+*扩展JavaScript功能的函数式编程库。* 
 
 * [underscore](https://github.com/jashkenas/underscore)-JavaScript的实用程序_带
 * [lodash](https://github.com/lodash/lodash)-一个实用程序库提供一致性，定制，性能和额外的。
@@ -410,13 +410,13 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [ramda](https://github.com/ramda/ramda)-JavaScript程序员的实用功能库。
 * [mout](https://github.com/mout/mout)-模块化JavaScript实用程序。
 * [preludejs](https://github.com/alanrsoares/prelude-js)-JavaScript的硬核函数式编程。
-* [rambda](https://github.com/selfrefactor/rambda)-更快和更小的替代* 拉姆达* 。
+* [rambda](https://github.com/selfrefactor/rambda)-更快和更小的替代*拉姆达* 。
 * [fxts](https://github.com/marpple/FxTS)-懒惰的评估和并发。
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path)-带有通配符和regexp的对象属性路径。
 * [sweet-monads](https://github.com/JSMonk/sweet-monads)-包含流行的monad和懒惰迭代器的实用程序库。
 ## 反应式编程
 
-* 响应式编程库来扩展JavaScript的功能。* 
+*响应式编程库来扩展JavaScript的功能。* 
 
 * [RxJS](https://github.com/ReactiveX/rxjs)-一个反应式的JavaScript编程库。
 * [Bacon](https://github.com/baconjs/bacon.js)-用于JavaScript的FRP (函数式反应式编程) 库。
@@ -428,7 +428,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [concent](https://github.com/concentjs/concent)-绝对是❤️ 最简单，但⚡️ react的最强状态管理，它是可预测的，渐进的和高效的。
 ## 数据结构
 
-* 数据结构库来构建更复杂的应用程序。* 
+*数据结构库来构建更复杂的应用程序。* 
 
 * [immutable-js](https://github.com/facebook/immutable-js)-不可变的数据集合，包括序列，范围，重复，地图，OrderedMap，集和稀疏向量。
 * [mori](https://github.com/swannodette/mori)-一个库，用于使用ClojureScript的持久性数据结构和支持来自普通JavaScript的API。
@@ -438,7 +438,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [js-sdsl](https://github.com/zly201/js-sdsl)-参考c stl实现的javascript标准数据结构库，它支持c双向迭代器模式。
 ## 日期
 
-* 日期库。* 
+*日期库。* 
 
 * [moment](https://github.com/moment/moment)-在JavaScript中解析，验证，操作和显示日期。
 * [moment-timezone](https://github.com/moment/moment-timezone)-时区支持moment.js。
@@ -455,7 +455,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [luxon](https://github.com/moment/luxon)-Luxon是一个在JavaScript中使用日期和时间的库。
 ## 字符串
 
-* 字符串库。* 
+*字符串库。* 
 
 * [voca](https://github.com/panzerdp/voca)-最终的JavaScript字符串库
 * [selecting](https://github.com/EvandroLG/selecting)-允许您访问用户选择的文本的库。
@@ -516,7 +516,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Vibrant.js](https://github.com/jariz/vibrant.js/)-从图像中提取突出的颜色。
 ## I18n和L10n
 
-* 本地化 (l10n) 和国际化 (i18n) JavaScript库。* 
+*本地化 (l10n) 和国际化 (i18n) JavaScript库。* 
 
 * [i18next](https://github.com/i18next/i18next)-国际化 (i18n) 与JavaScript的简单方法。
 * [polyglot](https://github.com/airbnb/polyglot.js)-微小的i18n帮助者库。
@@ -625,7 +625,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [PrismJS](https://github.com/PrismJS/prism)-轻量级，健壮，优雅的语法高亮。
 ## 加载状态
 
-* 用于指示加载状态的库。* 
+*用于指示加载状态的库。* 
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js)-创建Google材料设计进度线性栏。
 * [NProgress](https://ricostacruz.com/nprogress/)-纤薄的进度条Ajax'y应用程序。
