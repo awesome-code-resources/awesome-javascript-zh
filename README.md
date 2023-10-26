@@ -1,4 +1,4 @@
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-javascript-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 # Awesome JavaScript[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 
 Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)库，资源和闪亮的东西。
@@ -336,7 +336,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [cola.js](https://ialab.it.monash.edu/webcola/)-使用基于约束的优化技术来安排HTML5文档和图表的库
 * [jointjs](https://github.com/clientIO/joint)-图表库，用于创建静态图或完全交互式的图表工具。
 * [vizzu](https://github.com/vizzuhq/vizzu-lib)-用于动画数据可视化和数据故事的库。
-还有一些很棒的商业库，比如[amchart](https://www.amcharts.com/),[anychart](https://www.anychart.com/),[plotly](https://plotly.com/),和[lightning chart](https://www.arction.com/lightningchart-js/)。
+还有一些Awesome 商业库，比如[amchart](https://www.amcharts.com/),[anychart](https://www.anychart.com/),[plotly](https://plotly.com/),和[lightning chart](https://www.arction.com/lightningchart-js/)。
 
 ## 时间线
 
@@ -772,8 +772,8 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal)-扩展默认的Bootstrap模态类。响应，可堆叠，ajax和更多。
 * [css-modal](https://github.com/drublic/css-modal)-由纯CSS构建的模态。
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay)-jQuery插件，用于响应和可访问的模态窗口和工具提示。
-* [SweetAlert](https://github.com/t4t5/sweetalert)-一个很棒的替代JavaScript的警报。
-* [SweetAlert2](https://github.com/sweetalert2/sweetalert2)-一个很棒的替代JavaScript的警报。
+* [SweetAlert](https://github.com/t4t5/sweetalert)-一个Awesome 替代JavaScript的警报。
+* [SweetAlert2](https://github.com/sweetalert2/sweetalert2)-一个Awesome 替代JavaScript的警报。
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js)-简单和易于使用的纯JavaScript编写的lightbox脚本。
 * [colorbox](https://github.com/jackmoore/colorbox)-一个轻量级的，可定制的灯箱插件的jQuery。
 * [fancyBox](https://github.com/fancyapps/fancyBox)-一个工具，提供了一个很好的和优雅的方式来添加缩放功能的图像，html内容和多媒体在您的网页。
