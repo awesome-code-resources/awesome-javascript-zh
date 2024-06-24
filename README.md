@@ -1,9 +1,9 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-javascript-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
+# Awesome JavaScript[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 
-令人敬畏的浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)库，资源和闪亮的东西。
+Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)库，资源和闪亮的东西。
 
-* [Awesome-JavaScript](#Awesome-JavaScript)
+* [Awesome JavaScript](#Awesome-JavaScript)
   * [包管理器](#包管理器)
   * [组件管理](#组件管理)
   * [装载机](#装载机)
@@ -78,7 +78,7 @@
   * [SDK](#SDK)
   * [杂类](#杂类)
 * [值得一读](#值得一读)
-* [其他令人敬畏的列表](#其他令人敬畏的列表)
+* [其他Awesome 列表](#其他Awesome 列表)
 * [贡献](#贡献)
 ## 包管理器
 
@@ -220,7 +220,7 @@
 * [ripple](https://github.com/ripplejs/ripple)-构建反应性视图的微小基础。
 * [rivets](https://github.com/mikeric/rivets)-轻量级和强大的数据绑定模板解决方案。
 * [derby](https://github.com/derbyjs/derby)-MVC框架，可以轻松编写在Node.js和浏览器中运行的实时协作应用程序。
-  * [derby-awesome](https://github.com/russll/awesome-derby)-令人敬畏的derby组件的集合
+  * [derby-awesome](https://github.com/russll/awesome-derby)-Awesome derby组件的集合
 * [way.js](https://github.com/gwendall/way.js)-简单，轻量级，持久的双向数据绑定。
 * [mithril.js](https://github.com/lhorie/mithril.js)Mthril是一个客户端MVC框架 (轻量级，健壮，快速)。
 * [jsblocks](https://github.com/astoilkov/jsblocks)-jsblocks是更好的mv-ish框架。
@@ -237,7 +237,7 @@
 * [litegraph.js](https://github.com/jagenjo/litegraph.js)-类似于PD或UDK蓝图的图形节点引擎和编辑器，在HTML5 Canvas2D中带有自己的编辑器。
 * [Drawflow](https://github.com/jerosoler/Drawflow)-这使您可以轻松快速地创建数据流。
 * [Blockly](https://github.com/google/blockly)-一个由Google向web和移动应用添加可视代码编辑器的库。
-* [Million](https://github.com/aidenybai/million)-&lt;1kb以编译器为中心的虚拟DOM。太快了!
+* [Million](https://github.com/aidenybai/million)-<1kb以编译器为中心的虚拟DOM。太快了!
 * [Whatsup](https://github.com/whatsup/whatsup)-chillout模式开发的前端框架。生成器上的JSX组件，类似mobx的快速状态管理和独有的cssx样式系统。
 ## 节点驱动的CMS框架
 
@@ -264,7 +264,7 @@
 * [doT](https://github.com/olado/doT)-适用于nodejs和浏览器的最快简洁的JavaScript模板引擎。
 * [dustjs](https://github.com/linkedin/dustjs/)-用于浏览器和node.js的异步模板。
 * [eco](https://github.com/sstephenson/eco/)-嵌入式CoffeeScript模板。
-* [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates)-&lt;1KB轻量级，快速和强大的JavaScript模板引擎，零依赖。
+* [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates)-<1KB轻量级，快速和强大的JavaScript模板引擎，零依赖。
 * [t.js](https://github.com/jasonmoo/t.js)-一个很小的JavaScript模板框架，压缩了约400字节。
 * [Pug](https://github.com/pugjs/pug)-健壮，优雅，功能丰富的nodejs模板引擎。(原名Jade)
 * [EJS](https://github.com/mde/ejs)-有效的JavaScript模板。
@@ -295,7 +295,7 @@
 * [d3](https://github.com/d3/d3)-用于HTML和SVG的JavaScript可视化库。
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics)-针对简洁，有原则的数据图形和布局进行了优化的库。
 * [three.js](https://github.com/mrdoob/three.js)-JavaScript 3D库。
-* [Chart.js](https://github.com/chartjs/Chart.js)-使用 &lt;canvas&gt; 标签的简单HTML5图表。
+* [Chart.js](https://github.com/chartjs/Chart.js)-使用 <canvas> 标签的简单HTML5图表。
 * [paper.js](https://github.com/paperjs/paper.js)-矢量图形脚本的瑞士军刀-Scriptographer使用HTML5 Canvas移植到JavaScript和浏览器。
 * [fabric.js](https://github.com/kangax/fabric.js)-JavaScript画布库，svg-to Canvas (& Canvas-to-SVG) 解析器。
 * [peity](https://github.com/benpickles/peity)-渐进式条形图、折线图和饼图。
@@ -336,7 +336,7 @@
 * [cola.js](https://ialab.it.monash.edu/webcola/)-使用基于约束的优化技术来安排HTML5文档和图表的库
 * [jointjs](https://github.com/clientIO/joint)-图表库，用于创建静态图或完全交互式的图表工具。
 * [vizzu](https://github.com/vizzuhq/vizzu-lib)-用于动画数据可视化和数据故事的库。
-还有一些很棒的商业库，比如[amchart](https://www.amcharts.com/),[anychart](https://www.anychart.com/),[plotly](https://plotly.com/),和[lightning chart](https://www.arction.com/lightningchart-js/)。
+还有一些Awesome 商业库，比如[amchart](https://www.amcharts.com/),[anychart](https://www.anychart.com/),[plotly](https://plotly.com/),和[lightning chart](https://www.arction.com/lightningchart-js/)。
 
 ## 时间线
 
@@ -505,6 +505,7 @@
 * [Lovefield](https://google.github.io/lovefield)-Lovefield是Google的web应用程序的关系数据库。
 * [Dexie.js](https://github.com/dexie/Dexie.js)-Dexie.js是indexedDB的包装库。
 * [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage)-保持存储值的类型不变，直接更改数组和对象。支持侦听更改和设置过期。
+* [PostgreSQL Browser](https://github.com/datawan-labs/pg)-浏览器PostgreSQL游乐场，没有服务器，只有客户端和pglite (postgresql wasm)
 ## 颜色
 
 * [randomColor](https://github.com/davidmerfield/randomColor)-用于JavaScript的颜色生成器。
@@ -572,7 +573,6 @@
 * [jquery.rest](https://github.com/jpillora/jquery.rest)-一个jQuery插件，用于轻松使用RESTful api。
 * [Rails Ranger](https://github.com/victor-am/rails-ranger)-用于Ruby on Rails api的自以为是的REST客户端。
 * [wretch](https://github.com/elbywan/wretch)-一个围绕fetch构建的微型包装器，具有直观的语法。
-* [Bearer.sh](https://github.com/Bearer/bearer-js)-支持OAuth/API Key / Basic/etc的通用API客户端。
 * [FarFetch](https://github.com/WebsiteBeaver/far-fetch)-现代Fetch API包装器，以简洁的文件上传。
 * [Optic](https://github.com/opticdev/optic)-光学自动记录和测试您的api。
 * [SWR](https://github.com/vercel/swr)-React Hooks库，用于远程数据获取。
@@ -658,7 +658,7 @@
 * [Keypress](https://github.com/dmauro/Keypress)-键盘输入捕获实用程序，其中任何键都可以是修饰键。
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)-一个JavaScript库，用于绑定键盘组合，而不会出现按键代码和按键组合冲突的痛苦。
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)-jQuery热键可让您在代码中的任何位置观看键盘事件，几乎支持任何按键组合。
-* [jwerty](https://github.com/keithamus/jwerty)-键盘事件的真棒处理。
+* [jwerty](https://github.com/keithamus/jwerty)-键盘事件的Awesome 处理。
 ## 游览和指南
 
 * [intro.js](https://github.com/usablica/intro.js)-为您的网站和项目提供新功能介绍和分步用户指南的更好方法。
@@ -686,7 +686,7 @@
 * [Swiper](https://github.com/nolimits4web/Swiper)-具有硬件加速转换功能的移动触摸滑块和框架。
 * [slick](https://github.com/kenwheeler/slick)-你需要的最后一个旋转木马.
 * [slidesJs](http://www.slidesjs.com)-是JQuery(1.7.1) 的响应式幻灯片插件，具有触摸和CSS3过渡等功能
-* [FlexSlider](https://github.com/woothemes/FlexSlider)-一个真棒，完全响应的jQuery滑块插件。
+* [FlexSlider](https://github.com/woothemes/FlexSlider)-一个Awesome ，完全响应的jQuery滑块插件。
 * [sly](https://github.com/darsain/sly)-用于单向滚动的JavaScript库，基于项目的导航支持。
 * [vegas](https://github.com/jaysalvat/vegas)-一个jQuery插件添加美丽的全屏背景到您的网页。它甚至允许幻灯片。
 * [Sequence](https://github.com/IanLunn/Sequence)-CSS动画框架，用于创建响应滑块，演示文稿，横幅和其他基于step的应用程序。
@@ -731,6 +731,7 @@
 * [Date Range Picker](https://github.com/dangrossman/daterangepicker)-创建一个下拉菜单，用户可以从中选择日期范围。
 * [Duet Date Picker](https://github.com/duetds/date-picker)-二重唱设计系统的可访问日期选择器的开源版本，WCAG 2.1可访问性投诉
 * [tui.calendar](https://github.com/nhn/tui.calendar)-一个JavaScript日程安排日历，功能齐全。现在你的服务刚刚得到了可定制的日历。
+* [Schedule-X](https://github.com/schedule-x/schedule-x)-材料设计活动日历。功能拖放，黑暗模式，多个视图和更多。
 ### 选择
 
 * [selectize.js](https://github.com/selectize/selectize.js)-Selectize是文本框和框。它是基于jQuery的，它具有自动完成和原生感觉键盘导航; 用于标记，联系人列表等。
@@ -772,8 +773,8 @@
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal)-扩展默认的Bootstrap模态类。响应，可堆叠，ajax和更多。
 * [css-modal](https://github.com/drublic/css-modal)-由纯CSS构建的模态。
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay)-jQuery插件，用于响应和可访问的模态窗口和工具提示。
-* [SweetAlert](https://github.com/t4t5/sweetalert)-一个很棒的替代JavaScript的警报。
-* [SweetAlert2](https://github.com/sweetalert2/sweetalert2)-一个很棒的替代JavaScript的警报。
+* [SweetAlert](https://github.com/t4t5/sweetalert)-一个Awesome 替代JavaScript的警报。
+* [SweetAlert2](https://github.com/sweetalert2/sweetalert2)-一个Awesome 替代JavaScript的警报。
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js)-简单和易于使用的纯JavaScript编写的lightbox脚本。
 * [colorbox](https://github.com/jackmoore/colorbox)-一个轻量级的，可定制的灯箱插件的jQuery。
 * [fancyBox](https://github.com/fancyapps/fancyBox)-一个工具，提供了一个很好的和优雅的方式来添加缩放功能的图像，html内容和多媒体在您的网页。
@@ -832,7 +833,7 @@
 
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)-一个专业的前端模板，用于构建快速，强大和适应性强的web应用程序或网站。
 * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate)-一个前端模板，可帮助您构建快速，现代的移动web应用程序。
-* [webplate](https://github.com/chrishumboldt/webplate)-一个令人敬畏的前端框架，可让您专注于构建网站或应用程序，同时保持真正易于使用。
+* [webplate](https://github.com/chrishumboldt/webplate)-一个Awesome 前端框架，可让您专注于构建网站或应用程序，同时保持真正易于使用。
 * [Cerberus](https://github.com/TedGoas/Cerberus)-用于响应HTML电子邮件的一些简单但可靠的模式。即使在Outlook中。
 * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation)-一个介绍页面，带有全宽背景图像，大胆的动画菜单和导航背后的类似iOS的模糊效果。
 * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares)-正方形单位的流体网格。
@@ -874,7 +875,6 @@
 * [Ion.Sound](https://github.com/IonDen/ion.sound)-简单的声音在任何网页上。
 * [photobooth-js](https://github.com/WolframHempel/photobooth-js)-一个小部件，允许用户在您的网站上拍摄他们的头像照片。
 * [clappr](https://github.com/clappr/clappr)-用于web的可扩展媒体播放器http:// clappr.io
-* [exifr](https://github.com/MikeKovarik/exifr)-最快和最通用的EXIF阅读库。https:// mutiny.cz/exifr/
 * [ts-audio](https://github.com/EvandroLG/ts-audio)-一个不可知且易于使用的库，可与API。
 * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs)-开源HTML5 Web音频库。设计你的web音频播放器，你想要的方式。不需要依赖项。
 * [ractive-player](https://github.com/ysulyma/ractive-player)-用于在React.js中制作交互式视频库。
@@ -909,7 +909,7 @@
 * [shuffle-images](https://github.com/peachananr/shuffle-images)-以创造性的方式通过图像洗牌的最简单方法。
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js)-使用jQuery的不显眼的页面转换。
 * [Anime.js](https://animejs.com/)-一个JavaScript动画引擎。
-* [Mo.js](http://mojs.io)-用于web的运动图形toolbelt。
+* [Mo.js](https://mojs.github.io/)-用于web的运动图形toolbelt。
 * [particles.js](https://github.com/VincentGarreau/particles.js)-用于创建粒子的轻量级JavaScript库。
 * [tsParticles](https://github.com/matteobruni/tsparticles)-一个新的和改进的particles.js版本，具有错误修复和许多新功能。
 * [particles-bg](https://github.com/lindelof/particles-bg)-一个轻量级的反应粒子动画背景组件。
@@ -926,9 +926,9 @@
 * [es6features](https://github.com/lukehoban/es6features)-ECMAScript 6功能概述。
 * [es6-features](https://github.com/rse/es6-features)-ECMAScript 6: 功能概述和比较。
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)-ES2015 [ES6] 包含提示，技巧，最佳实践和代码片段的cheatsheet。
-* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)-各种环境中所有ECMAScript 6功能的兼容性表。
+* [ECMAScript 6 compatibility table](https://compat-table.github.io/compat-table/es6/)-各种环境中所有ECMAScript 6功能的兼容性表。
 * [Babel (Formerly 6to5)](https://github.com/babel/babel)-将ES6代码转换为没有运行时的香草ES5。
-* [Traceur compiler](https://github.com/google/traceur-compiler)-ES6功能&gt; es5。包括类，发电机，承诺，解构模式，默认参数和更多。
+* [Traceur compiler](https://github.com/google/traceur-compiler)-ES6功能> es5。包括类，发电机，承诺，解构模式，默认参数和更多。
 ## 发电机
 
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby)-基于反应的静态站点生成器。
@@ -948,7 +948,7 @@
 ## 杂类
 
 * [echo](https://github.com/toddmotto/echo)-懒惰加载图像与数据-* 属性。
-* [picturefill](https://github.com/scottjehl/picturefill)-&lt;picture&gt; 、srcset、sizes的响应式图像polyfill。
+* [picturefill](https://github.com/scottjehl/picturefill)-<picture> 、srcset、sizes的响应式图像polyfill。
 * [platform.js](https://github.com/bestiejs/platform.js)-适用于几乎所有JavaScript平台的平台检测库。
 * [json3](https://github.com/bestiejs/json3)-与几乎所有JavaScript平台兼容的现代JSON实现。
 * [Logical Or Not](https://gabinaureche.com/logicalornot/)-一个关于JavaScript特性的游戏。
@@ -983,7 +983,7 @@
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript)-从各种用户排名的在线教程中在线学习Javascript。
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)-JavaScript中务实，平衡的FP。
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)-适用于JavaScript的干净代码概念。
-# 其他令人敬畏的列表
+# 其他Awesome 列表
 
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
