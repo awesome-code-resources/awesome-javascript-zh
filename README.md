@@ -296,7 +296,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [d3](https://github.com/d3/d3)-用于HTML和SVG的JavaScript可视化库。
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics)-针对简洁，有原则的数据图形和布局进行了优化的库。
 * [three.js](https://github.com/mrdoob/three.js)-JavaScript 3D库。
-* [Chart.js](https://github.com/chartjs/Chart.js)-使用 <canvas> 标签的简单HTML5图表。
+* [Chart.js](https://github.com/chartjs/Chart.js)-使用 `<canvas>`  标签的简单HTML5图表。
 * [paper.js](https://github.com/paperjs/paper.js)-矢量图形脚本的瑞士军刀-Scriptographer使用HTML5 Canvas移植到JavaScript和浏览器。
 * [fabric.js](https://github.com/kangax/fabric.js)-JavaScript画布库，svg-to Canvas (& Canvas-to-SVG) 解析器。
 * [peity](https://github.com/benpickles/peity)-渐进式条形图、折线图和饼图。
@@ -949,7 +949,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 ## 杂类
 
 * [echo](https://github.com/toddmotto/echo)-懒惰加载图像与数据-* 属性。
-* [picturefill](https://github.com/scottjehl/picturefill)-<picture> 、srcset、sizes的响应式图像polyfill。
+* [picturefill](https://github.com/scottjehl/picturefill)-`<picture>` 、srcset、sizes的响应式图像polyfill。
 * [platform.js](https://github.com/bestiejs/platform.js)-适用于几乎所有JavaScript平台的平台检测库。
 * [json3](https://github.com/bestiejs/json3)-与几乎所有JavaScript平台兼容的现代JSON实现。
 * [Logical Or Not](https://gabinaureche.com/logicalornot/)-一个关于JavaScript特性的游戏。
