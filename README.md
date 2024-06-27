@@ -1,10 +1,9 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-javascript-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
 本项目的原始仓库地址为[这里](https://github.com/sorrycc/awesome-javascript)。
-# Awesome JavaScript[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
+# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
+令人敬畏的浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)图书馆，资源和闪亮的东西。
 
-Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)库，资源和闪亮的东西。
-
-* [Awesome JavaScript](#Awesome-JavaScript)
+* [真棒JavaScript](#真棒JavaScript)
   * [包管理器](#包管理器)
   * [组件管理](#组件管理)
   * [装载机](#装载机)
@@ -79,7 +78,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
   * [SDK](#SDK)
   * [杂类](#杂类)
 * [值得一读](#值得一读)
-* [其他Awesome 列表](#其他Awesome 列表)
+* [其他令人敬畏的列表](#其他令人敬畏的列表)
 * [贡献](#贡献)
 ## 包管理器
 
@@ -91,7 +90,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [spm](https://github.com/spmjs/spm)-全新的静态包管理器。
 * [jam](https://github.com/caolan/jam)-使用以浏览器为中心且与RequireJS兼容的存储库的软件包管理器。
 * [jspm](https://github.com/jspm/jspm-cli)-无摩擦的浏览器包管理。
-* [Ender](https://github.com/ender-js/Ender)-无库库。
+* [Ender](https://github.com/ender-js/Ender)-无图书馆图书馆。
 * [volo](https://github.com/volojs/volo)-从模板创建前端项目，添加依赖项，并自动执行生成的项目。
 * [Duo](https://github.com/duojs/duo)-下一代软件包管理器，它融合了组件，Browserify和Go的最佳想法，从而使组织和编写前端代码变得快速而轻松。
 * [yarn](https://yarnpkg.com/)-快速，可靠和安全的依赖关系管理。
@@ -127,8 +126,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Microbundle](https://github.com/developit/microbundle)-用于微型模块的零配置打包器。
 * [FuseBox](https://github.com/fuse-box/fuse-box)-一个打包机，它的权利
 * [Snowpack](https://www.snowpack.dev/)-一个闪电般的前端构建工具，专为现代web设计。
-# 最小化器
-
+# Minimizers
 * [Terser](https://github.com/terser/terser)-用于ES6的解析器，mangler和compressor工具包
 * [Uglify](https://github.com/mishoo/UglifyJS)-解析器/mangler/压缩器/美化器工具包
 ## 类型检查器
@@ -221,7 +219,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [ripple](https://github.com/ripplejs/ripple)-构建反应性视图的微小基础。
 * [rivets](https://github.com/mikeric/rivets)-轻量级和强大的数据绑定模板解决方案。
 * [derby](https://github.com/derbyjs/derby)-MVC框架，可以轻松编写在Node.js和浏览器中运行的实时协作应用程序。
-  * [derby-awesome](https://github.com/russll/awesome-derby)-Awesome derby组件的集合
+  * [derby-awesome](https://github.com/russll/awesome-derby)-令人敬畏的derby组件的集合
 * [way.js](https://github.com/gwendall/way.js)-简单，轻量级，持久的双向数据绑定。
 * [mithril.js](https://github.com/lhorie/mithril.js)Mthril是一个客户端MVC框架 (轻量级，健壮，快速)。
 * [jsblocks](https://github.com/astoilkov/jsblocks)-jsblocks是更好的mv-ish框架。
@@ -296,7 +294,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [d3](https://github.com/d3/d3)-用于HTML和SVG的JavaScript可视化库。
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics)-针对简洁，有原则的数据图形和布局进行了优化的库。
 * [three.js](https://github.com/mrdoob/three.js)-JavaScript 3D库。
-* [Chart.js](https://github.com/chartjs/Chart.js)-使用 `<canvas>`  标签的简单HTML5图表。
+* [Chart.js](https://github.com/chartjs/Chart.js)-使用 <canvas> 标签的简单HTML5图表。
 * [paper.js](https://github.com/paperjs/paper.js)-矢量图形脚本的瑞士军刀-Scriptographer使用HTML5 Canvas移植到JavaScript和浏览器。
 * [fabric.js](https://github.com/kangax/fabric.js)-JavaScript画布库，svg-to Canvas (& Canvas-to-SVG) 解析器。
 * [peity](https://github.com/benpickles/peity)-渐进式条形图、折线图和饼图。
@@ -337,7 +335,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [cola.js](https://ialab.it.monash.edu/webcola/)-使用基于约束的优化技术来安排HTML5文档和图表的库
 * [jointjs](https://github.com/clientIO/joint)-图表库，用于创建静态图或完全交互式的图表工具。
 * [vizzu](https://github.com/vizzuhq/vizzu-lib)-用于动画数据可视化和数据故事的库。
-还有一些Awesome 商业库，比如[amchart](https://www.amcharts.com/),[anychart](https://www.anychart.com/),[plotly](https://plotly.com/),和[lightning chart](https://www.arction.com/lightningchart-js/)。
+还有一些很棒的商业图书馆，比如[amchart](https://www.amcharts.com/),[anychart](https://www.anychart.com/),[plotly](https://plotly.com/),和[lightning chart](https://www.arction.com/lightningchart-js/)。
 
 ## 时间线
 
@@ -619,7 +617,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [workly](https://github.com/pshihn/workly)-将函数或类移动到web worker的一种非常简单的方法。
 * [stockroom](https://github.com/developit/stockroom)-轻松地将您的商店管理卸载给工作人员。
 * [workerpool](https://github.com/josdejong/workerpool)-将任务卸载到node.js和浏览器中的工作线程池。
-* [clooney](https://github.com/GoogleChromeLabs/clooney)-克鲁尼是网络的演员库。使用工人而不考虑工人。
+* [clooney](https://github.com/GoogleChromeLabs/clooney)-克鲁尼是网络的演员图书馆。使用工人而不考虑工人。
 ## 代码突出显示
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js)-JavaScript语法荧光笔。
@@ -659,7 +657,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Keypress](https://github.com/dmauro/Keypress)-键盘输入捕获实用程序，其中任何键都可以是修饰键。
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)-一个JavaScript库，用于绑定键盘组合，而不会出现按键代码和按键组合冲突的痛苦。
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys)-jQuery热键可让您在代码中的任何位置观看键盘事件，几乎支持任何按键组合。
-* [jwerty](https://github.com/keithamus/jwerty)-键盘事件的Awesome 处理。
+* [jwerty](https://github.com/keithamus/jwerty)-键盘事件的真棒处理。
 ## 游览和指南
 
 * [intro.js](https://github.com/usablica/intro.js)-为您的网站和项目提供新功能介绍和分步用户指南的更好方法。
@@ -687,7 +685,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Swiper](https://github.com/nolimits4web/Swiper)-具有硬件加速转换功能的移动触摸滑块和框架。
 * [slick](https://github.com/kenwheeler/slick)-你需要的最后一个旋转木马.
 * [slidesJs](http://www.slidesjs.com)-是JQuery(1.7.1) 的响应式幻灯片插件，具有触摸和CSS3过渡等功能
-* [FlexSlider](https://github.com/woothemes/FlexSlider)-一个Awesome ，完全响应的jQuery滑块插件。
+* [FlexSlider](https://github.com/woothemes/FlexSlider)-一个真棒，完全响应的jQuery滑块插件。
 * [sly](https://github.com/darsain/sly)-用于单向滚动的JavaScript库，基于项目的导航支持。
 * [vegas](https://github.com/jaysalvat/vegas)-一个jQuery插件添加美丽的全屏背景到您的网页。它甚至允许幻灯片。
 * [Sequence](https://github.com/IanLunn/Sequence)-CSS动画框架，用于创建响应滑块，演示文稿，横幅和其他基于step的应用程序。
@@ -774,8 +772,8 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal)-扩展默认的Bootstrap模态类。响应，可堆叠，ajax和更多。
 * [css-modal](https://github.com/drublic/css-modal)-由纯CSS构建的模态。
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay)-jQuery插件，用于响应和可访问的模态窗口和工具提示。
-* [SweetAlert](https://github.com/t4t5/sweetalert)-一个Awesome 替代JavaScript的警报。
-* [SweetAlert2](https://github.com/sweetalert2/sweetalert2)-一个Awesome 替代JavaScript的警报。
+* [SweetAlert](https://github.com/t4t5/sweetalert)-一个很棒的替代JavaScript的警报。
+* [SweetAlert2](https://github.com/sweetalert2/sweetalert2)-一个很棒的替代JavaScript的警报。
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js)-简单和易于使用的纯JavaScript编写的lightbox脚本。
 * [colorbox](https://github.com/jackmoore/colorbox)-一个轻量级的，可定制的灯箱插件的jQuery。
 * [fancyBox](https://github.com/fancyapps/fancyBox)-一个工具，提供了一个很好的和优雅的方式来添加缩放功能的图像，html内容和多媒体在您的网页。
@@ -834,7 +832,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)-一个专业的前端模板，用于构建快速，强大和适应性强的web应用程序或网站。
 * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate)-一个前端模板，可帮助您构建快速，现代的移动web应用程序。
-* [webplate](https://github.com/chrishumboldt/webplate)-一个Awesome 前端框架，可让您专注于构建网站或应用程序，同时保持真正易于使用。
+* [webplate](https://github.com/chrishumboldt/webplate)-一个令人敬畏的前端框架，可让您专注于构建网站或应用程序，同时保持真正易于使用。
 * [Cerberus](https://github.com/TedGoas/Cerberus)-用于响应HTML电子邮件的一些简单但可靠的模式。即使在Outlook中。
 * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation)-一个介绍页面，带有全宽背景图像，大胆的动画菜单和导航背后的类似iOS的模糊效果。
 * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares)-正方形单位的流体网格。
@@ -949,7 +947,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 ## 杂类
 
 * [echo](https://github.com/toddmotto/echo)-懒惰加载图像与数据-* 属性。
-* [picturefill](https://github.com/scottjehl/picturefill)-`<picture>` 、srcset、sizes的响应式图像polyfill。
+* [picturefill](https://github.com/scottjehl/picturefill)-<picture> 、srcset、sizes的响应式图像polyfill。
 * [platform.js](https://github.com/bestiejs/platform.js)-适用于几乎所有JavaScript平台的平台检测库。
 * [json3](https://github.com/bestiejs/json3)-与几乎所有JavaScript平台兼容的现代JSON实现。
 * [Logical Or Not](https://gabinaureche.com/logicalornot/)-一个关于JavaScript特性的游戏。
@@ -973,8 +971,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [Peg.js](https://github.com/pegjs/pegjs)-用于JavaScript的简单解析器生成器，可生成具有出色错误报告的快速解析器。可从浏览器、命令行或通过JavaScript API使用。
 * [lune](https://github.com/ryanseys/lune)-库，精确计算月球的相位。
 * [jsemu](https://github.com/fcambus/jsemu)-用JavaScript编程语言编写的仿真器列表。
-# 值得一读
-
+# Worth Reading
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)-可能是用现代JavaScript编写的最好的书，完全免费在线阅读，或者可以购买以支持作者。
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)-易于阅读，快速参考JS最佳实践，公认的编码标准和Web链接。
 * [JSbooks](https://github.com/revolunet/JSbooks)-免费JavaScript电子书目录。
@@ -984,8 +981,7 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript)-从各种用户排名的在线教程中在线学习Javascript。
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)-JavaScript中务实，平衡的FP。
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)-适用于JavaScript的干净代码概念。
-# 其他Awesome 列表
-
+# Other Awesome Lists
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -1006,12 +1002,10 @@ Awesome 浏览器端的集合[JavaScript](https://developer.mozilla.org/en-US/do
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
 * [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
-# 贡献
-
+# Contributing
 欢迎捐款!阅读[contribution guidelines](%5Bthis%5D(CONTRIBUTING.md))首先。
 
-# 许可证
-
+# License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内，[chencheng](https://github.com/sorrycc)已放弃本作品的所有版权和相关或邻接权。
